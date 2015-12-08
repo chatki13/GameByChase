@@ -1,0 +1,440 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.550 seconds
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\New Unity Project\GraphicsBuild_1.1_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 35a8 -> priority: 1 
+  Thread -> id: 39d0 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 56.297180 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 918.
+Total: 0.252840 ms (FindLiveObjects: 0.036386 ms CreateObjectMapping: 0.027989 ms MarkObjects: 0.183332 ms  DeleteObjects: 0.004664 ms)
+
+My score is 1point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 2point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 3point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 4point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 5point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 6point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 7point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 8point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 9point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 10point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.911999 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 908.
+Total: 0.331212 ms (FindLiveObjects: 0.039652 ms CreateObjectMapping: 0.032188 ms MarkObjects: 0.249108 ms  DeleteObjects: 0.010262 ms)
+
+My score is 1point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 2point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 3point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 4point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 5point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 6point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 7point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 8point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 9point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 10point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 11point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.910133 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.300889 ms (FindLiveObjects: 0.029855 ms CreateObjectMapping: 0.025657 ms MarkObjects: 0.239778 ms  DeleteObjects: 0.005131 ms)
+
+My score is 1point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 2point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 3point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 4point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 5point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 6point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 7point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.622305 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.260304 ms (FindLiveObjects: 0.027523 ms CreateObjectMapping: 0.021925 ms MarkObjects: 0.205258 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.987571 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.238845 ms (FindLiveObjects: 0.026590 ms CreateObjectMapping: 0.020992 ms MarkObjects: 0.186131 ms  DeleteObjects: 0.005131 ms)
+
+My score is 1point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 2point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 3point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 4point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 5point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 6point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 7point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.640032 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.265902 ms (FindLiveObjects: 0.027056 ms CreateObjectMapping: 0.021925 ms MarkObjects: 0.211322 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.591983 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.264969 ms (FindLiveObjects: 0.027523 ms CreateObjectMapping: 0.022858 ms MarkObjects: 0.208990 ms  DeleteObjects: 0.005131 ms)
+
+My score is 1point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 2point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 3point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 4point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 5point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 6point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 7point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.569124 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.269168 ms (FindLiveObjects: 0.027523 ms CreateObjectMapping: 0.030322 ms MarkObjects: 0.206657 ms  DeleteObjects: 0.004664 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.537403 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.245843 ms (FindLiveObjects: 0.026123 ms CreateObjectMapping: 0.020992 ms MarkObjects: 0.193129 ms  DeleteObjects: 0.005131 ms)
+
+My score is 1point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 2point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 3point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 4point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 5point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 6point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 7point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.579387 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.254240 ms (FindLiveObjects: 0.036386 ms CreateObjectMapping: 0.019592 ms MarkObjects: 0.193129 ms  DeleteObjects: 0.004198 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.243677 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.621372 ms (FindLiveObjects: 0.068574 ms CreateObjectMapping: 0.049448 ms MarkObjects: 0.490287 ms  DeleteObjects: 0.012128 ms)
+
+My score is 1point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 2point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 3point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 4point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 5point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 6point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 7point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 8point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 9point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 10point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 11point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 12point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.537869 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 500.
+Total: 0.258438 ms (FindLiveObjects: 0.034520 ms CreateObjectMapping: 0.019592 ms MarkObjects: 0.199193 ms  DeleteObjects: 0.004664 ms)
+
+My score is 1point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 2point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 3point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 4point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 5point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 6point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 7point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 8point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 9point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.535537 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 500.
+Total: 0.266369 ms (FindLiveObjects: 0.024724 ms CreateObjectMapping: 0.021458 ms MarkObjects: 0.214588 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.486555 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 500.
+Total: 0.246309 ms (FindLiveObjects: 0.023324 ms CreateObjectMapping: 0.020992 ms MarkObjects: 0.195461 ms  DeleteObjects: 0.006064 ms)
+
+My score is 1point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 2point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 3point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 4point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 5point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 6point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 7point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 8point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 9point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 10point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+My score is 11point(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.592916 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 173.
+Total: 0.299490 ms (FindLiveObjects: 0.012128 ms CreateObjectMapping: 0.014461 ms MarkObjects: 0.195461 ms  DeleteObjects: 0.076971 ms)
+
